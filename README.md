@@ -6,7 +6,7 @@ A visually aesthetic quote generator built using HTML, CSS, and JavaScript.
 ![Project Screenshot](screenshot.png)
 
 ## 🚀 Live Demo
-https://nishvaa-vyas.github.io/aesthetic-quote-generator/
+(https://nishvaa-vyas.github.io/Aesthetic-Quote-Generator/)
 
 ## 🌸 Features
 - Random quote generator
