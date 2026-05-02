@@ -3,10 +3,10 @@
 A visually aesthetic quote generator built using HTML, CSS, and JavaScript.
 
 ## 📸 Preview
-![Project Screenshot](screenshot.png)
+![Project Screenshot](Screenshot.png)
 
 ## 🚀 Live Demo
-(https://nishvaa-vyas.github.io/Aesthetic-Quote-Generator/)
+https://nishvaa-vyas.github.io/Aesthetic-Quote-Generator/
 
 ## 🌸 Features
 - Random quote generator
